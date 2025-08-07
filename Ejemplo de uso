@@ -1,0 +1,4 @@
+import yagmail
+
+yag = yagmail.SMTP("tucorreo@gmail.com", "tu_contraseña")
+yag.send(to="destinatario@empresa.com", subject="Asunto", contents="Mensaje de prueba")
