@@ -1,0 +1,7 @@
+automatización_correos_python/
+├── README.md                  ← Presentación del proyecto
+├── .gitignore                 ← Ignora archivos innecesarios (opcional)
+├── /src                       ← Carpeta del código fuente
+│   └── envio_correo_corporativo.py
+├── /docs                      ← Documentación adicional o capturas
+│   └── uso_basico.md
