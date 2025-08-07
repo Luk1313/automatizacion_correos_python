@@ -1,0 +1,8 @@
+# Requisitos para automatización de correos corporativos
+# Instalar usando: pip install -r requirements.txt
+
+# Cliente de correo basado en Gmail (seguro y fácil de usar)
+yagmail==0.15.293
+
+# Si se usa autenticación segura con claves cifradas, agregar:
+# keyring==24.3.0
